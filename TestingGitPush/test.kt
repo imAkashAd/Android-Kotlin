@@ -1,4 +1,8 @@
 fun main() {
-    val a = 5,
-    println("The value of a is: $a")
+    val a: Int = 5
+    val b: Double = 2.5
+    var c = a + b
+    println(b)
+    println(a)
+    println(c)
 }
